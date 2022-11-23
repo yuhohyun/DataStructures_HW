@@ -1,6 +1,7 @@
 # DataStructures_HW
-### (ICE-2004)자료구조론 과제
+### (ICE-2004) Data Structures
 -----------------------------------------------
-###### HW_1
-###### HW 2_1 BinaryTree
-###### HW 2_2 BinSrchTree
+#### Assignment
+- ###### HW_1
+- ###### HW 2_1 BinaryTree
+- ###### HW 2_2 BinSrchTree
