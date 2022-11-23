@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            
+            // 추가로 사용해야 할 헤더파일 경로
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/hohyun/Desktop/Programming/DataStructures/HW 2_2 BinSrchTree"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.19041.0",
+
+            // 컴파일러 경로
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+
+            // intellisense도 gcc로 바꿈.
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
