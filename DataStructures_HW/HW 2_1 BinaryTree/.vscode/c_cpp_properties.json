@@ -6,7 +6,7 @@
             // 추가로 사용해야 할 헤더파일 경로
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/hohyun/Desktop/Programming/DataStructures/HW 2_1 BinaryTree"
+                "C:/Programming/DataStructures_HW/HW 2_1 BinaryTree"
             ],
             "defines": [
                 "_DEBUG",

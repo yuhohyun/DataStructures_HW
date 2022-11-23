@@ -3,10 +3,10 @@
         {
             "name": "Win32",
             
-            // ì¶”ê°€ë¡œ ì‚¬ìš©í•´ì•¼ í•  í—¤ë”íŒŒì¼ ê²½ë¡œ
+            // ì¶”ê??ë¡? ?‚¬?š©?•´?•¼ ?•  ?—¤?”?ŒŒ?¼ ê²½ë¡œ
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/hohyun/Desktop/Programming/DataStructures/HW 2_2 BinSrchTree"
+                "C:/Programming/DataStructures_HW/HW 2_2 BinSrchTree"
             ],
             "defines": [
                 "_DEBUG",
@@ -15,12 +15,12 @@
             ],
             "windowsSdkVersion": "10.0.19041.0",
 
-            // ì»´íŒŒì¼ëŸ¬ ê²½ë¡œ
+            // ì»´íŒŒ?¼?Ÿ¬ ê²½ë¡œ
             "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
             "cStandard": "c17",
             "cppStandard": "c++17",
 
-            // intellisenseë„ gccë¡œ ë°”ê¿ˆ.
+            // intellisense?„ gccë¡? ë°”ê¿ˆ.
             "intelliSenseMode": "windows-gcc-x64"
         }
     ],
