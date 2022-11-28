@@ -81,7 +81,7 @@ public:
 	//================================================================
 	// 3.1) block을 채우시오.
 	bool isEven(TNode* n) {	
-		if ((n == NULL) ||  (n->left == NULL && n->right == NULL)) 
+		if ((n == NULL) ||  (n != NULL && n->right == NULL)) 
 			return true;
 
 		if (n->left == NULL || n->right == NULL)
@@ -146,7 +146,7 @@ public:
 		dh = rh - lh;
 
 		// 3.3) block을 채우시오.
-		if (dh > 1 || dh < 0)
+		if (dh > 1 || dh < -1)
 			return false;
 		
 
